@@ -1,5 +1,5 @@
 # JavaLearn
-java library study
+scala study
 
 # author
 	zhanggw
